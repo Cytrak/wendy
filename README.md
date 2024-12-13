@@ -1,3 +1,1 @@
-# wendy
-great bot tho
-ping
+https://keith-sessions-pi5z.onrender.com/pair
